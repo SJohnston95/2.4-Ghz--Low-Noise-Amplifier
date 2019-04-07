@@ -1,0 +1,27 @@
+Feedback
+L1 = 1.5nH
+R1 = 2400ohm  //
+Cfb = 1.5nF //
+
+Left Stability
+L2 = 1.2nH
+R2 = 4.5kohm//
+C1 = .5pF
+
+Right stability
+L3 = 10nH
+R3 = 77.47ohm //
+Cout = 31nF
+
+Biasing
+L4 = 19nH just has to be big
+L5 = 19nH
+R4 = 4.32kohm  //
+R5 = 3.57kohm  //
+R6 = 33.2ohm  //
+R7 = 4.32kohm //
+
+
+
+
+Cinput/output = 1nF//
